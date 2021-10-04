@@ -1,0 +1,14 @@
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\bin\Debug\netcoreapp3.1\Isu.exe
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\bin\Debug\netcoreapp3.1\Isu.deps.json
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\bin\Debug\netcoreapp3.1\Isu.runtimeconfig.json
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\bin\Debug\netcoreapp3.1\Isu.runtimeconfig.dev.json
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\bin\Debug\netcoreapp3.1\Isu.dll
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\bin\Debug\netcoreapp3.1\Isu.pdb
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.AssemblyInfoInputs.cache
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.AssemblyInfo.cs
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.csproj.CoreCompileInputs.cache
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.dll
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.pdb
+C:\Users\Kien\Source\Repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.genruntimeconfig.cache
+C:\Users\Kien\source\repos\is-oop-y24\kien096\Isu\obj\Debug\netcoreapp3.1\Isu.csproj.AssemblyReference.cache

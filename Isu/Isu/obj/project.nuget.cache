@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kdXuvUMnQeP6Co0J3O8Roop1TqmsNoaPvOWOTzDq0pfnBTzxGhe3jXWnhXGuKAVf1WyTJab6bB6gPa/qGHZK7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kien\\source\\repos\\is-oop-y24\\kien096\\Isu\\Isu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kien\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
